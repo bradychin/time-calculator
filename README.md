@@ -1,5 +1,7 @@
 # Time-Calculator
 
+freecodecamp project
+
 This function will take the following parameters:
 
 1. A start time in the 12-hour clock format (ending in AM or PM)
